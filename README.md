@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hello, World!
 
-<!--
-**ValentinoCarvalho/ValentinoCarvalho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Valentino, a developer passionate about technology and creativity.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 Studying Information Systems at FIAP
+- 🌐 Front-end developer
+- 💻 Building websites with:
+  - HTML
+  - CSS
+  - JavaScript
+- ⚛️ Currently learning:
+  - React
+  - Java
+
+## 📚 Goals
+
+I'm constantly improving my skills and exploring new technologies to become a full-stack developer.
+
+## 🛠️ Technologies
+
+<div>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,java,git,github" />
+</div>
+
+## 📫 Contact
+
+Feel free to connect with me and check out my projects!
+
+---
+
+⭐ Thanks for visiting my profile!
