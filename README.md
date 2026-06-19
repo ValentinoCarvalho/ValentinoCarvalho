@@ -1,5 +1,5 @@
 <br clear="right">
-<img align="right" width="430"   src="https://github.com/user-attachments/assets/4e1a8ac4-7788-4302-8a10-cb98eb7e960d" >
+<img align="right" width="350"   src="https://github.com/user-attachments/assets/4e1a8ac4-7788-4302-8a10-cb98eb7e960d" >
 
 ### Valentino Carvalho
 <hr>
