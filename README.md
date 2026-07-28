@@ -22,11 +22,12 @@ a commitment to creating solutions that make a real impact.
 - ⚛️ Currently learning:
   - React
   - SQL
+  - Node.js
 
 ## 🛠️ Technologies
 
 <div>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,figma,mysql,git,github" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,figma,mysql,nodejs,git,github" />
 </div>
 
 ## 📫 Contact
