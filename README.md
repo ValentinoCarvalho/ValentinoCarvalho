@@ -21,7 +21,7 @@ a commitment to creating solutions that make a real impact.
   - JavaScript
 - ⚛️ Currently learning:
   - React
-  - Java
+  - SQL
 
 ## 📚 Goals
 
@@ -30,7 +30,7 @@ I'm constantly improving my skills and exploring new technologies to become a fu
 ## 🛠️ Technologies
 
 <div>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,java,git,github" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,sql,git,github" />
 </div>
 
 ## 📫 Contact
