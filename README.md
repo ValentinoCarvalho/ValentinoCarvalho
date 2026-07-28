@@ -23,14 +23,10 @@ a commitment to creating solutions that make a real impact.
   - React
   - SQL
 
-## 📚 Goals
-
-I'm constantly improving my skills and exploring new technologies to become a full-stack developer.
-
 ## 🛠️ Technologies
 
 <div>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,sql,git,github" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,figma,mysql,git,github" />
 </div>
 
 ## 📫 Contact
